@@ -67,7 +67,6 @@ namespace MatrixLib {
         Matrix dotElem(const Matrix& another) const;
         Matrix dotRow(const Matrix& another) const;
 
-
         bool empty() const;
         int rowSize() const;
         int colSize() const;
